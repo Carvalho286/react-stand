@@ -5,7 +5,7 @@ Also there's a Admin Menu with the CRUD of the Cars, the Users and the Reservati
 
 <br />
 
-<h2>To Start Project</h2>
+<h3>To Start Project</h3>
 <br />
 <br />
 On each folder (BackEnd and FrontEnd) run ``npm install`` command to install the necessary packages to run the project.
