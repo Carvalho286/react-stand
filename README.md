@@ -5,9 +5,9 @@ Also there's a Admin Menu with the CRUD of the Cars, the Users and the Reservati
 
 <br />
 
-<h3>To Start Project</h3>
+<h2>To Start Project</h2>
 <br />
 <br />
-On each folder (BackEnd and FrontEnd) run **npm install** command to install the necessary packages to run the project.
+On each folder (BackEnd and FrontEnd) run npm install command to install the necessary packages to run the project.
 <br />
-After that just run the 2 **.bat** files to start each server. Personally recommend start the BackEnd first.
+After that just run the 2 .bat files to start each server. Personally recommend start the BackEnd first.
